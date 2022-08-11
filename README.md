@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Anna Gutowska!
 
-I am a 3rd year Honors College student at Rutgers University - New Brunswick. My majors are Computer Science
+I am a senior Honors College student at Rutgers University - New Brunswick. My majors are Computer Science
 and Cognitive Science. 
 
 ## My Technical Skills: 
