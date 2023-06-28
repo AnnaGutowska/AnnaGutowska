@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Anna Gutowska!
 
-I have a B.S. in Computer Science and a B.A. in Cognitive Science as a graduate of the Honors College at Rutgers University - New Brunswick.  
+I have a B.S. in Computer Science and Cognitive Science as a graduate of the Honors College at Rutgers University - New Brunswick.  
 
 ## My Technical Skills: 
 Java, C, Python, Javascript, R, SQL, HTML, Linux, VSCode, Eclipse, Latex, IntelliJ IDEA 💻
