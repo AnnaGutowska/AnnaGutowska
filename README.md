@@ -3,11 +3,11 @@
 I have a B.S. in Computer Science and Cognitive Science as a graduate of the Honors College at Rutgers University - New Brunswick.  
 
 ## My Technical Skills: 
-Java, C, Python, Javascript, R, SQL, HTML, Linux, VSCode, Eclipse, Latex, IntelliJ IDEA 💻
+Python, Java, R, SQL, C, Javascript, HTML 💻
 
 ## What Motivates Me: 
-* **My involvement within the Polish community.** I was the President of Rutgers Polish Club as well as Miss Polonia Rutgers 2021. I am also the Chief Technology Officer (CTO) for the Polish Youth Association 🇵🇱
-* **Inspiring women and all minorities to pursue tech.** I am a Data Engineer for the Percentage Project - a nonprofit organization that uncovers the true sentiment of those underrepresentated in tech. 
+* **My involvement within the Polish community.** I was the President of Rutgers Polish Club (2022-2023) as well as Miss Polonia Rutgers 2021. I am also the Chief Technology Officer (CTO) for the Polish Youth Association 🇵🇱
+* **Inspiring women and all minorities to pursue tech.** I am a Software Engineer for the Percentage Project - a nonprofit organization that uncovers the true sentiment of those underrepresentated in tech. 
 * **Helping others.** In college, I was a Research Assistant working towards uncovering the disproportionate access to Covid related information amongst minorities. 
 
 ## Connect with me!
