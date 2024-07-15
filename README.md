@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Anna Gutowska!
 
-I have a B.S. in Computer Science and Cognitive Science as a 2023 graduate of the Honors College at Rutgers University - New Brunswick. I have 2+ years of data science experience as a Research Assistant for Rutgers University. 
+I have a B.S. in Computer Science and Cognitive Science as a 2023 graduate of the Honors College at Rutgers University - New Brunswick. Currently, I work at IBM as an AI technical content writer and developer. I also have 2+ years of data science experience as a Research Assistant for Rutgers University. 
 
 ## My Technical Skills: 
 Python, Java, R, Swift, SQL, C, Javascript, CSS, React, HTML 💻
@@ -13,18 +13,3 @@ Python, Java, R, Swift, SQL, C, Javascript, CSS, React, HTML 💻
 ## Connect with me!
 Please reach out to me on [LinkedIn](https://www.linkedin.com/in/anna-gutowska/) to better connect and check out my portfolio website (https://annagutowska.github.io/) 🙌🏻
 
-<!--
-**AnnaGutowska/AnnaGutowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
