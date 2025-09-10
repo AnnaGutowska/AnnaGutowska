@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Anna Gutowska!
 
-I have a B.S. in Computer Science and Cognitive Science as a 2023 graduate of the Honors College at Rutgers University-New Brunswick. Currently, I work at IBM as a Data Scientist in Developer Advocacy. I also have 2+ years of data science experience as a Research Assistant at Rutgers University. 
+I have a B.S. in Computer Science and Cognitive Science as a 2023 graduate of the Honors College at Rutgers University-New Brunswick. Currently, I work at IBM as an AI Engineer and Developer Advocate. I also have several years of data science experience as a Research Assistant at Rutgers University. 
 
 ## My Technical Skills: 
 Python, Java, R, Swift, SQL, C, Javascript, CSS, React, HTML 💻
